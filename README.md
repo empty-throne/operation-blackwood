@@ -339,8 +339,9 @@ This lab is conducted entirely within an isolated VirtualBox internal network on
 
 ## 👤 Author
 
-**Zackery** | B.S. Cybersecurity (Cum Laude) | Charlotte, NC  
+**Zackery Monk** | B.S. Cybersecurity (Cum Laude) | Charlotte, NC  
 Targeting: SOC Analyst · Jr. Penetration Tester · DFIR Analyst  
 [GitHub: empty-throne](https://github.com/empty-throne)
+[LinkedIn: Zackery Monk](www.linkedin.com/in/zackery-monk)
 
 *Part of the **SentinelView Trilogy** — Reconnaissance → Detection → Forensics*
